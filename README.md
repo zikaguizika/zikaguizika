@@ -1,9 +1,8 @@
 # 👋 Olá — Eu sou Guilherme Bortoloti (zikaguizika)
 
-🎓 Estudante de Inteligência Artificial | Foco em IA + Cybersecurity + Cloud  
-📍 Ribeirão Preto, SP — Conclusão do ensino médio: 30/11/2025  
-🎯 Objetivo: Tornar-me AI Security Engineer / Ethical Hacker especializado em modelos de linguagem
-
+🎓 Estudante de Inteligência Artificial na universidade Barão de Mauá| Foco em IA + Cybersecurity + Cloud  
+📍 Ribeirão Preto, SP — Conclusão do ensino superior em: 30/06/2028 
+🎯 Objetivo: Tornar-me AI Security Engineer / Ethical Hacker especializado em modelos de linguagem / Segurança em bancos de dados em Inteligencia Artificial (IA)
 ---
 
 ## 🔎 Sobre mim
