@@ -38,9 +38,7 @@ Olá! Estou iniciando uma trajetória prática em IA e segurança. Tenho certifi
 ---
 
 ## 📫 Contato
-- Email: seuemail@example.com  
-- LinkedIn: https://www.linkedin.com/in/seu-linkedin  
-- Twitter/X: @seuusuario (opcional)
+- Email: guilhermesilvakkll@gmail.com  
 
 ---
 
