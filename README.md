@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Bortoloti (zikaguizika)
 
-<!--
-**zikaguizika/zikaguizika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Inteligência Artificial  
+💼 Interesse em IA, Cybersegurança e Cloud  
+🚀 Em busca de construir projetos reais e evoluir diariamente  
+📍 Ribeirão Preto, SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mim
+- Futuro aluno de IA  
+- Certificações: AI-900, AZ-900  
+- Interesse em Ethical Hacking  
+- Estudando Python, Machine Learning e segurança digital  
+
+---
+
+## 🛠 Tecnologias que uso ou estudo
+- **Linguagens:** Python, SQL  
+- **IA:** Scikit-learn, TensorFlow (iniciando), PyTorch (iniciando)  
+- **Cloud:** Azure + GitHub  
+- **Segurança:** Linux, redes, princípios de pentest  
+
+---
+
+## 🚧 Projetos que vou subir em breve
+- Chatbot simples com IA  
+- Algoritmo de detecção de anomalias  
+- Scripts de automação em Python  
+- Pequenos modelos de ML treinados por mim  
+
+---
+
+## 📫 Contato
+- E-mail: *coloque seu e-mail aqui*  
+- LinkedIn: *(se tiver, coloca o link)*
+
+---
+
+⭐ *Obrigado por visitar meu perfil! Em breve muitos projetos estarão por aqui.*
